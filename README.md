@@ -1,4 +1,4 @@
-👋 Hi, I’m @archiegoodman2
+👋 Hi
 I'm currently working as a AI Engineer/Data Scientist at a large bank, and these are my projects for personal development. These are some in-progress Data Science projects:
 
   1. Basic Feed Forward Neural Network classifier to practice automatic HP tuning and visualization
