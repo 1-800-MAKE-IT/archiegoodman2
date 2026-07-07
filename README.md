@@ -1,5 +1,5 @@
 👋 Hi, I’m @archiegoodman2
-I'm currently working as a Developer/Junior Data Scientist at a large bank, and these are my projects for personal development. These are my current projects:
+I'm currently working as a AI Engineer/Data Scientist at a large bank, and these are my projects for personal development. These are some in-progress Data Science projects:
 
   1. Basic Feed Forward Neural Network classifier to practice automatic HP tuning and visualization
   2. Autoencoder to reduce dimensionality of input data
@@ -9,6 +9,7 @@ Ideas for future projects:
   1. upgrade autoencoder to variational autoencoder then potentially GAN
   2. ConvNet for image recognition - visualize layers with gradient ascent
 
+I've moved onto focusing on AI Engineering a while ago, so expect more projects in the GenAI space when I get time.
   
   📫 How to reach me ... https://www.linkedin.com/in/archie-goodman-a0bb4b1b7/ 
 
